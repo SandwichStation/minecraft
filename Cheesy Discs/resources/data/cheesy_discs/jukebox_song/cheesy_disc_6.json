@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.cheesy_discs.cheesy_disc_6.desc"
+  },
+  "length_in_seconds": 331,
+  "sound_event": "cheesy_discs:kingforaday"
+}

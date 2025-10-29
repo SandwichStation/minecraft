@@ -1,0 +1,86 @@
+{
+  "hehasreturned": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:gloryhammer_-_he_has_returned",
+        "stream": true
+      }
+    ]
+  },
+  "pushittothelimit": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:push_it_to_the_limit",
+        "stream": true
+      }
+    ]
+  },
+  "deadmarauder": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:alestorm_ft._patty_gurdy_-_voyage_of_the_dead_marauder",
+        "stream": true
+      }
+    ]
+  },
+  "party": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:push_it_to_the_limit",
+        "stream": true
+      },
+      {
+        "name": "cheesy_discs:alestorm_-_p.a.r.t.y",
+        "stream": true
+      }
+    ]
+  },
+  "bf1942": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:battlefield_1942_theme",
+        "stream": true
+      }
+    ]
+  },
+  "kingforaday": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:battle_beast_-_king_for_a_day",
+        "stream": true
+      }
+    ]
+  },
+  "halfhorse": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:oct_-_half_horse_half_man",
+        "stream": true
+      }
+    ]
+  },
+  "dimsum": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:oct_-_dim_sum_paradise",
+        "stream": true
+      }
+    ]
+  },
+  "clogs": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:oct_-_dont_touch_my_clogs",
+        "stream": true
+      }
+    ]
+  },
+  "kobolds": {
+    "sounds": [
+      {
+        "name": "cheesy_discs:three_kobolds_in_a_trenchcoat",
+        "stream": true
+      }
+    ]
+  }
+}

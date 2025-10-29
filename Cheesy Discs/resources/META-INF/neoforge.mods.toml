@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Attribution-NonCommercial-NoDerivatives 4.0"
+
+[[mods]]
+modId="cheesy_discs"
+version="1.0.0"
+displayName="Cheesy Discs"
+displayURL="https://minecraft.sandwich14.com"
+credits="All music is credited to their respective owners."
+authors=".Yuuchan"
+description="Because more music = more fun!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+[[dependencies.cheesy_discs]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.176,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.cheesy_discs]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.cheesy_discs.cheesy_disc_3.desc"
+  },
+  "length_in_seconds": 263,
+  "sound_event": "cheesy_discs:deadmarauder"
+}
